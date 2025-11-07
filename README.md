@@ -94,7 +94,7 @@ The program will display:
 
 ##  Author
 Machine Learning Churn Prediction Project – Telco Dataset  
-Designed for training, academic, and real-world business use.
+Designed for training, academic, and real-world business use by Alex wanyonyi.
 
 
 
