@@ -1,3 +1,10 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/livingemoji/churn/HEAD?filepath=Predicting_Customer_Churn.ipynb)
+
+
+[Open in Google Colab](https://colab.research.google.com/github/livingemoji/churn/blob/main/Predicting_Customer_Churn.ipynb)
+
+
+
 # Customer Churn Prediction – Machine Learning Project
 
 This project builds a machine learning model that predicts customer churn using the Telco Customer Churn dataset.  
